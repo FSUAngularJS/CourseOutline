@@ -1,4 +1,4 @@
-<span id="CourseContent" class="anchor"></span>**Course Description: Introduction to AngularJS**
+﻿*Course Description: Introduction to AngularJS*
 
 **AngularJS Training Outline**
 

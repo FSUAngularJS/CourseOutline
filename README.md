@@ -1,6 +1,4 @@
-﻿*Course Description: Introduction to AngularJS*
-
-**AngularJS Training Outline**
+﻿**Introduction to AngularJS Training Outline**
 
 -   Introduction to AngularJS
 

@@ -1,4 +1,4 @@
-﻿**Introduction to AngularJS Training Outline**
+﻿**AngularJS Training Outline**
 
 -   Introduction to AngularJS
 
@@ -16,31 +16,9 @@
 
     -   The pieces of the puzzle
 
-        -   Two-way data binding
-
-        -   Directives
-
     -   How it fits together
 
-        -   How much of the page is an Angular application?
-
     -   Model, View, Controller from the AngularJS Perspective
-
--   Single Page Applications
-
-    -   What do we mean by Single Page Application?
-
-    -   Creating Angular Modules
-
-    -   Using Angular's Routing Service
-
-        -   Routing Basics
-
-        -   Accessing URL Data
-
-        -   Using the $location Service
-
-    -   Creating a Skeleton Single Page Application
 
 -   Controllers
 
@@ -148,6 +126,22 @@
 
     -   Turning directives into components
 
+-   Single Page Applications
+
+    -   What do we mean by Single Page Application?
+
+    -   Creating Angular Modules
+
+    -   Using Angular's Routing Service
+
+        -   Routing Basics
+
+        -   Accessing URL Data
+
+        -   Using the $location Service
+
+    -   Creating a Skeleton Single Page Application
+
 -   Testing in Angular
 
     -   Unit testing
@@ -165,5 +159,9 @@
         -   Controlling what happens before and after the test
 
         -   Running a scenario
+
+-   Integrating AngularJS with Java / Spring Applications
+
+-   AngularJS 2.x Overview and Migration Strategy
 
 -   Conclusion<span id="ReferencesContent" class="anchor"><span id="GSAContent" class="anchor"></span></span>
